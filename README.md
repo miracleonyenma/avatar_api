@@ -113,4 +113,3 @@ curl -O "https://<your-render-app>.onrender.com/avatars/avatar_1.webp"
 ## Error Handling
 
 If an avatar fails to download, it will be logged to the server's output. The API will continue processing other requests and include any successfully downloaded avatars in the response.
-
